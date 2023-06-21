@@ -1,1 +1,91 @@
-# Portfolio_Jashan
+# Portfolio_Jashan<!DOCTYPE html>
+<html>
+<head>
+  <title>MY Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    
+    #header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    #header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+    
+    #content {
+      max-width: 800px;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    #content h2 {
+      margin: 0;
+      font-size: 24px;
+    }
+    
+    #content p {
+      margin-top: 10px;
+      font-size: 16px;
+    }
+    
+    #footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div id="header">
+    <h1>My Portfolio</h1>
+  </div>
+  
+  <div id="content">
+    <h2>About Me</h2>
+    <p>Hello! I Am Jashanpreet Singh. I Am Student of Second Year CSE Degree</p>
+    
+    <h2> Technical Skills</h2>
+    <ul>
+      <li>C</li>
+      <li>C++</li>
+      <li>Python</li>
+      <li>SQL</li>
+      <li>html</li>
+    </ul>
+    
+    <h2>Other Skills</h2>
+    <ul>
+      <li>Team Management</li>
+      <li>Problem Solving</li>
+      <li>Good Leader</li>
+    
+    </ul>
+    
+    <h2>Contact</h2>
+    <p>Email: jasspatialvi0530@gmail.com</p>
+    <p>Phone: 82647-92605</p>
+    <a href="https://www.instagram.com/jashanpreet1.0/#">
+      <i><img src="icons8-instagram-48.png.crdownload" alt=""></i>
+    </a>
+    
+  </div>
+  
+  <div id="footer">
+    <p>Powered by Jashanpreet Singh </p>
+  </div>
+</body>
+</html>
